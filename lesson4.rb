@@ -1,0 +1,2 @@
+name = "manamu"
+puts name
